@@ -8,4 +8,8 @@ File name is day, month, year.
 Records players once a day.
 
 What it looks like in the file.
+
 ![image](https://github.com/Stimayk/RecordsNewPlayers/assets/51941742/1b3b1a8f-97fb-406f-861e-d281f6e75977)
+
+Logs are stored in the path:
+csgo/addons/counterstrikesharp/logs/RecordsNewPlayers/
